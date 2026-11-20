@@ -1,0 +1,2 @@
+# 02engine-skills
+一些可以让ai更好的使用原版Scratch积木搭建项目的skills
