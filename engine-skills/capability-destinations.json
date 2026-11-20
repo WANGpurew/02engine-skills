@@ -1,0 +1,49 @@
+{
+  "generated_by": "cangjie-tools v2.5.0",
+  "bundle_id": "bundle.02engine-guide",
+  "router_entrypoint": "02engine-guide",
+  "entrypoint_count": 8,
+  "capability_count": 10,
+  "destinations": {
+    "cap.e2.build-extension": {
+      "promoted_to": "extension-authoring",
+      "router_view": "02engine-guide/references/capabilities/extension-authoring.md"
+    },
+    "cap.e2.extension-library": {
+      "promoted_to": "extension-library",
+      "router_view": "02engine-guide/references/capabilities/extension-library.md"
+    },
+    "cap.e2.agent-workflow": {
+      "promoted_to": "ai-agent-workflow",
+      "router_view": "02engine-guide/references/capabilities/ai-agent-workflow.md"
+    },
+    "cap.e2.custom-reporter": {
+      "promoted_to": "custom-reporter",
+      "router_view": "02engine-guide/references/capabilities/custom-reporter.md"
+    },
+    "cap.e2.extra-blocks": {
+      "promoted_to": "extra-blocks",
+      "router_view": "02engine-guide/references/capabilities/extra-blocks.md"
+    },
+    "cap.e2.direct-js": {
+      "promoted_to": "inline-js",
+      "router_view": "02engine-guide/references/capabilities/inline-js.md"
+    },
+    "cap.e2.cloud-variables": {
+      "promoted_to": "cloud-variables",
+      "router_view": "02engine-guide/references/capabilities/cloud-variables.md"
+    },
+    "cap.e2.compiler-and-perf": {
+      "served_by": "02engine-guide",
+      "card": "02engine-guide/references/capabilities/compiler-and-perf.md"
+    },
+    "cap.e2.extension-debug-convert": {
+      "served_by": "02engine-guide",
+      "card": "02engine-guide/references/capabilities/extension-debug-convert.md"
+    },
+    "cap.e2.addon-and-legacy": {
+      "served_by": "02engine-guide",
+      "card": "02engine-guide/references/capabilities/addon-and-legacy.md"
+    }
+  }
+}

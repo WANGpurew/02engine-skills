@@ -1,0 +1,48 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "02engine-guide\\references\\capabilities\\addon-and-legacy.md": "0cacc3b16c3aa1698b490e5fef1cadf3915b574d7d9d85dfe96b964dec63bb82",
+    "02engine-guide\\references\\capabilities\\ai-agent-workflow.md": "c7acb112f68c8242e3185395e54c06b9248f35e5b5e0aedca01c825c5ead446d",
+    "02engine-guide\\references\\capabilities\\cloud-variables.md": "5bb2338d6298fdf112ffe3ecbb220227fa61b5c1f227eb9f4337f9f67f12f00e",
+    "02engine-guide\\references\\capabilities\\compiler-and-perf.md": "78a43d1b6900b4fc2564e001cb1b73d55a3465bd02b3bc0e07b4a777311ff58e",
+    "02engine-guide\\references\\capabilities\\custom-reporter.md": "a3754eebe9bcadeb4765d8f632086fee5e9f5c8b2306a0d1aac04b45052ca17e",
+    "02engine-guide\\references\\capabilities\\extension-authoring.md": "60473036b954669606996b86dddd6f0c3db68db1fbb66f1ce92fcd9c6d683fe6",
+    "02engine-guide\\references\\capabilities\\extension-debug-convert.md": "949bfdaad51bcbdc05e0feae3c96a1104ffa83e307b337c7f217473490472bb5",
+    "02engine-guide\\references\\capabilities\\extension-library.md": "76bbb861aa62a379e41aaa3c60b5414c0d234867bc329180f21d78b881fb509e",
+    "02engine-guide\\references\\capabilities\\extra-blocks.md": "f6fbda67defd328c955a342ea6dd135804efd489a69f88551906a2bdc312f346",
+    "02engine-guide\\references\\capabilities\\inline-js.md": "016cc84d8dfc2368397633b0c70238ec004b29bbbe4f18e19c3d419f263746a4",
+    "02engine-guide\\references\\capability-index.md": "4eee7fb9f4fb1f3cf8cf6918b07a35a0f778d469033553af6211a7220f9c5b3d",
+    "02engine-guide\\references\\cheatsheet.md": "cee08f50af328b5101518f6dbde3b39572375512fd98f5a23f39695a49e9b6ff",
+    "02engine-guide\\references\\glossary.md": "ad8cc4c948445a2deddb3312797b2d6fffc112b2ca40aa3f786c6de168469186",
+    "02engine-guide\\references\\overview.md": "f07559a3a046cc8fb66edf890f2c969fa89555db84c4ece6edf646a639e7a682",
+    "02engine-guide\\SKILL.md": "841fd68eb8b5ba2a2891a15f6d24eaaadd2b3ef7242e53e0637b99ac929743e1",
+    "ai-agent-workflow\\SKILL.md": "b56bb20381f293e7ab1b4893018169b4f9300eb07927338e78d8ad6b662e1bee",
+    "capability-destinations.json": "96ec4878f370172892e5ae4d4c86ea2a3c263ede47a94b9d035ff2790192bf91",
+    "cloud-variables\\SKILL.md": "262476be44385716dfc94de85d59a67f409af39bd24c6e52d0ea4cac3239ba82",
+    "custom-reporter\\SKILL.md": "6ec203ed9ac67b5232cd154b1b43a7517482c2c26f6b2e2b1e34a1ae9bf5b65c",
+    "extension-authoring\\SKILL.md": "1a5837f5e8414e66a439c69fe88e64606bd6411bf0bb4436d3b4357f0e170150",
+    "extension-library\\SKILL.md": "4a3af1dab432d6f9b3c61e0af12ea74de2e5c4e0db0ebd05535fc5760435ffee",
+    "extra-blocks\\SKILL.md": "cfe961c60fd59591fb2654452e8f1a355256130875a5a4033c8c6adc2cc5ac16",
+    "inline-js\\SKILL.md": "15ca68f735f9f11eadb118c2aac136691876c206ff201139f6194898f4eb12a2"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.02engine-guide",
+  "bundle_sha256": "45db203c560e2ae8e7a10c36053c3820cb8eec6760d97f97171a07f68b13a22f",
+  "variant": "pack",
+  "run_id": "run-20261120-123051-ed5f37",
+  "decision": {
+    "schema_version": 1,
+    "requested": "pack",
+    "selected": "pack",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 7,
+    "capability_count": 10,
+    "reasons": [
+      "用户显式选择 pack，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "single（1 个入口 + 10 张内部能力卡）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
